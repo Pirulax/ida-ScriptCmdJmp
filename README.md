@@ -1,3 +1,7 @@
+# What's this?
+Script to help you easily jump to the handler of a given script command.
+The script command is identified by it's name (From `eScriptCommands`, with or without the `COMMAND_` prefix).
+
 # Installation
 Copy the script to  `<IDA Installation Folder>/plugins/` folder
 
